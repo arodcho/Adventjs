@@ -1,6 +1,4 @@
-# Adventjs
-
-Retos de programación
+# Adventjs 
 
 ### [Reto #1: 🎁 ¡Primer regalo repetido!](./retos/reto1.js)
 
@@ -21,6 +19,10 @@ Retos de programación
 ### [Reto #9: 🚦 Alterna las luces](./retos/reto9.js)
 
 ### [Reto #10: 🎄 Crea tu propio árbol de navidad](./retos/reto10.js)
+
+### [Reto #11: 📖 Los elfos estudiosos](./retos/reto11.js)
+
+
 
 
 
