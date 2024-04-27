@@ -22,6 +22,8 @@
 
 ### [Reto #11: 📖 Los elfos estudiosos](./retos/reto11.js)
 
+### [Reto #12: 📸 ¿Es una copia válida?](./retos/reto12.js)
+
 
 
 
