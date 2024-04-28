@@ -24,6 +24,7 @@
 
 ### [Reto #12: 📸 ¿Es una copia válida?](./retos/reto12.js)
 
+### [Reto #13: ⌚️ Calculando el tiempo](./retos/reto13.js)
 
 
 
