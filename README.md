@@ -26,6 +26,8 @@
 
 ### [Reto #13: ⌚️ Calculando el tiempo](./retos/reto13.js)
 
+### [Reto #14: 🚨 Evita la alarma](./retos/reto14.js)
+
 
 
 
