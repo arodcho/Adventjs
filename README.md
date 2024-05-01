@@ -28,6 +28,8 @@
 
 ### [Reto #14: 🚨 Evita la alarma](./retos/reto14.js)
 
+### [Reto #15: ↔️ Robot autónomo](./retos/reto15.js)
+
 
 
 
