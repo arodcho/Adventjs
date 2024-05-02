@@ -30,6 +30,8 @@
 
 ### [Reto #15: ↔️ Robot autónomo](./retos/reto15.js)
 
+### [Reto #16: ❌ Despliegue en viernes](./retos/reto16.js)
+
 
 
 
