@@ -32,6 +32,10 @@
 
 ### [Reto #16: ❌ Despliegue en viernes](./retos/reto16.js)
 
+### [Reto #17: 🛷 Optimizando el alquiler](./retos/reto17.js)
+
+
+
 
 
 
