@@ -34,6 +34,8 @@
 
 ### [Reto #17: 🛷 Optimizando el alquiler](./retos/reto17.js)
 
+### [Reto #18: 🔢 El reloj digital](./retos/reto18.js)
+
 
 
 
