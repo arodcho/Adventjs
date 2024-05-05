@@ -36,6 +36,8 @@
 
 ### [Reto #18: 🔢 El reloj digital](./retos/reto18.js)
 
+### [Reto #19: 💣 Enfrenta el sabotaje](./retos/reto19.js)
+
 
 
 
