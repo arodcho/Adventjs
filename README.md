@@ -38,7 +38,7 @@
 
 ### [Reto #19: 💣 Enfrenta el sabotaje](./retos/reto19.js)
 
-
+### [Reto #20: 🏋️‍♂️ Distribuye el peso](./retos/reto20.js)
 
 
 
