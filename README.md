@@ -40,7 +40,7 @@
 
 ### [Reto #20: 🏋️‍♂️ Distribuye el peso](./retos/reto20.js)
 
-
+### [Reto #21: 🪐 Mensaje binario](./retos/reto21.js)
 
 
 
