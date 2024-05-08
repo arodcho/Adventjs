@@ -42,5 +42,7 @@
 
 ### [Reto #21: 🪐 Mensaje binario](./retos/reto21.js)
 
+### [Reto #22: 🚂 Lenguaje de programación](./retos/reto22.js)
+
 
 
