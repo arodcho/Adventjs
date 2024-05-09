@@ -44,5 +44,4 @@
 
 ### [Reto #22: 🚂 Lenguaje de programación](./retos/reto22.js)
 
-
-
+### [Reto #23: 🍽️ La comida de Navidad](./retos/reto23.js)
