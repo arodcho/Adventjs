@@ -47,3 +47,6 @@
 ### [Reto #23: 🍽️ La comida de Navidad](./retos/reto23.js)
 
 ### [Reto #24: 🪜 Brincos en la escalera](./retos/reto24.js)
+
+### [Reto #25: 🗺️ Calculando distancias](./retos/reto25.js)
+
