@@ -50,3 +50,5 @@
 
 ### [Reto #25: 🗺️ Calculando distancias](./2023/reto25.js)
 
+## 2022
+
