@@ -55,3 +55,6 @@
 ### [Reto #1: ¡Automatizando envolver regalos de navidad!](./2022/reto1.js)
 
 ### [Reto #2: Nadie quiere hacer horas extra](./2022/reto2.js)
+
+### [Reto #3: ¿Cuántas cajas de regalos puede llevar Papá Noel?](./2022/reto3.js)
+
