@@ -58,3 +58,4 @@
 
 ### [Reto #3: ¿Cuántas cajas de regalos puede llevar Papá Noel?](./2022/reto3.js)
 
+### [Reto #4: Una caja dentro de otra caja y otra...](./2022/reto4.js)
