@@ -61,3 +61,5 @@
 ### [Reto #4: Una caja dentro de otra caja y otra...](./2022/reto4.js)
 
 ### [Reto #5: Optimizando viajes de Santa](./2022/reto5.js)
+
+### [Reto #6: Creando adornos navideños](./2022/reto6.js)
