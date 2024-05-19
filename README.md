@@ -66,3 +66,6 @@
 
 ### [Reto #7: Haciendo inventario de regalos](./2022/reto7.js)
 
+### [Reto #8: ¡Necesitamos un mecánico!](./2022/reto8.js)
+
+
