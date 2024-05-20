@@ -68,4 +68,5 @@
 
 ### [Reto #8: ¡Necesitamos un mecánico!](./2022/reto8.js)
 
+### [Reto #9: Las locas luces de Navidad](./2022/reto9.js)
 
