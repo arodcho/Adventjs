@@ -72,3 +72,7 @@
 
 ### [Reto #9: Las locas luces de Navidad](./2022/reto9.js)
 
+### [Reto #10: El salto del trineo de Papá Noel](./2022/reto10.js)
+
+
+
