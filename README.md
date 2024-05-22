@@ -74,5 +74,6 @@
 
 ### [Reto #10: El salto del trineo de Papá Noel](./2022/reto10.js)
 
+### [Reto #11: Papá Noel es Scrum Master](./2022/reto11.js)
 
 
