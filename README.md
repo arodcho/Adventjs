@@ -76,4 +76,7 @@
 
 ### [Reto #11: Papá Noel es Scrum Master](./2022/reto11.js)
 
+### [Reto #12: Trineos eléctricos, ¡guau!](./2022/reto12.js)
+
+
 
