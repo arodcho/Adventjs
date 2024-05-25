@@ -76,5 +76,8 @@
 
 ### [Reto #12: Trineos eléctricos, ¡guau!](./2022/reto12.js)
 
+### [Reto #13: Backup de los archivos de Papá Noel](./2022/reto13.js)
+
+
 
 
