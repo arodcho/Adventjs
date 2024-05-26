@@ -78,6 +78,7 @@
 
 ### [Reto #13: Backup de los archivos de Papá Noel](./2022/reto13.js)
 
+### [Reto #14: El mejor camino](./2022/reto14.js)
 
 
 
