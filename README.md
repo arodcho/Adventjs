@@ -50,7 +50,9 @@
 
 ### [Reto #25: 🗺️ Calculando distancias](./2023/reto25.js)
 
+
 ## 2022
+
 
 ### [Reto #1: ¡Automatizando envolver regalos de navidad!](./2022/reto1.js)
 
