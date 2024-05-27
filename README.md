@@ -82,5 +82,9 @@
 
 ### [Reto #14: El mejor camino](./2022/reto14.js)
 
+### [Reto #15: Decorando el árbol de Navidad](./2022/reto15.js)
+
+
+
 
 
