@@ -84,6 +84,9 @@
 
 ### [Reto #15: Decorando el árbol de Navidad](./2022/reto15.js)
 
+### [Reto #16: Arreglando las cartas de Papá Noel](./2022/reto16.js)
+
+
 
 
 
