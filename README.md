@@ -86,7 +86,7 @@
 
 ### [Reto #16: Arreglando las cartas de Papá Noel](./2022/reto16.js)
 
-
+### [Reto #17: Llevando los regalos en sacos](./2022/reto17.js)
 
 
 
