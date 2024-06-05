@@ -86,6 +86,8 @@
 
 ### [Reto #17: Llevando los regalos en sacos](./2022/reto17.js)
 
+### [Reto #18: ¡Nos quedamos sin tinta!](./2022/reto18.js)
+
 
 
 
