@@ -88,6 +88,6 @@
 
 ### [Reto #18: ¡Nos quedamos sin tinta!](./2022/reto18.js)
 
-
+### [Reto #19: Ordenando los regalos](./2022/reto19.js)
 
 
