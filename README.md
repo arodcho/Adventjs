@@ -90,4 +90,7 @@
 
 ### [Reto #19: Ordenando los regalos](./2022/reto19.js)
 
+### [Reto #20: Más viajes retadores](./2022/reto20.js)
+
+
 
