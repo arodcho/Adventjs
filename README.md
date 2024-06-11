@@ -93,3 +93,5 @@
 ### [Reto #20: Más viajes retadores](./2022/reto20.js)
 
 ### [Reto #21: Creando la tabla de regalos](./2022/reto21.js)
+
+### [Reto #22: La iluminación en sintonía](./2022/reto22.js)
