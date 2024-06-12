@@ -95,3 +95,6 @@
 ### [Reto #21: Creando la tabla de regalos](./2022/reto21.js)
 
 ### [Reto #22: La iluminación en sintonía](./2022/reto22.js)
+
+### [Reto #23: Compilador de Papá Noel](./2022/reto23.js)
+
