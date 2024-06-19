@@ -98,3 +98,6 @@
 
 ### [Reto #23: Compilador de Papá Noel](./2022/reto23.js)
 
+### [Reto #24: El último reto es un laberinto](./2022/reto24.js)
+
+
