@@ -104,3 +104,4 @@
 
 ### [Reto #1: Contando ovejas para dormir](./2021/reto1.js)
 
+### [Reto #2: ¡Ayuda al elfo a listar los regalos!](./2021/reto2.js)
