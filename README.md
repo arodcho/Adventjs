@@ -112,3 +112,4 @@
 
 ### [Reto #3: El Grinch quiere fastidiar la Navidad](./2021/reto3.js)
 
+### [Reto #4: ¡Es hora de poner la navidad en casa!](./2021/reto4.js)
