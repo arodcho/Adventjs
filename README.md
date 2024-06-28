@@ -116,4 +116,4 @@
 
 ### [Reto #5: Contando los días para los regalos](./2021/reto5.js)
 
-### [Rematando los exámenes finales](./2021/reto6.js)
+### [Reto #6: Rematando los exámenes finales](./2021/reto6.js)
