@@ -115,3 +115,5 @@
 ### [Reto #4: ¡Es hora de poner la navidad en casa!](./2021/reto4.js)
 
 ### [Reto #5: Contando los días para los regalos](./2021/reto5.js)
+
+### [Rematando los exámenes finales](./2021/reto6.js)
