@@ -120,3 +120,5 @@
 
 ### [Reto #7: Buscando en el almacén...](./2021/reto7.js)
 
+### [Reto #8: La locura de las criptomonedas](./2021/reto8.js)
+
