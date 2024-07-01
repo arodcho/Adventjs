@@ -122,3 +122,6 @@
 
 ### [Reto #8: La locura de las criptomonedas](./2021/reto8.js)
 
+### [Reto #9: Agrupando cosas automáticamente](./2021/reto9.js)
+
+
