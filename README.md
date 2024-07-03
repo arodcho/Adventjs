@@ -125,3 +125,5 @@
 ### [Reto #9: Agrupando cosas automáticamente](./2021/reto9.js)
 
 ### [Reto #10: La máquina de cambio](./2021/reto10.js)
+
+### [Reto #11: ¿Vale la pena la tarjeta fidelidad del cine?](./2021/reto11.js)
