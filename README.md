@@ -127,3 +127,6 @@
 ### [Reto #10: La máquina de cambio](./2021/reto10.js)
 
 ### [Reto #11: ¿Vale la pena la tarjeta fidelidad del cine?](./2021/reto11.js)
+
+### [Reto #12: La ruta perfecta para dejar los regalos](./2021/reto12.js)
+
