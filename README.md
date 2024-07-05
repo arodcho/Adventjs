@@ -130,3 +130,6 @@
 
 ### [Reto #12: La ruta perfecta para dejar los regalos](./2021/reto12.js)
 
+### [Reto #13: Envuelve regalos con asteriscos](./2021/reto13.js)
+
+
