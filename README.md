@@ -50,9 +50,7 @@
 
 ### [Reto #25: 🗺️ Calculando distancias](./2023/reto25.js)
 
-
 ## 2022
-
 
 ### [Reto #1: ¡Automatizando envolver regalos de navidad!](./2022/reto1.js)
 
@@ -102,9 +100,7 @@
 
 ### [Reto #24: El último reto es un laberinto](./2022/reto24.js)
 
-
 ## 2021
-
 
 ### [Reto #1: Contando ovejas para dormir](./2021/reto1.js)
 
