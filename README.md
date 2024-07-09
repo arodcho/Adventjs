@@ -131,3 +131,5 @@
 ### [Reto #14: En busca del reno perdido](./2021/reto14.js)
 
 ### [Reto #15: El salto perfecto](./2021/reto15.js)
+
+### [Reto #16: Descifrando los números...](./2021/reto16.js)
